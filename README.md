@@ -11,6 +11,7 @@ git clone https://github.com/adilnbabras/diff
 ```
 cd diff
 ```
+# usage
 ```
 python3 diff.py file1.txt file2.txt
 ```
